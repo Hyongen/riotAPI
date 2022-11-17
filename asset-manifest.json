@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/riotAPI/static/css/main.073c9b0a.css",
-    "main.js": "/riotAPI/static/js/main.66641585.js",
+    "main.js": "/riotAPI/static/js/main.d17ca20e.js",
     "static/js/787.28cb0dcd.chunk.js": "/riotAPI/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/riotAPI/index.html",
     "main.073c9b0a.css.map": "/riotAPI/static/css/main.073c9b0a.css.map",
-    "main.66641585.js.map": "/riotAPI/static/js/main.66641585.js.map",
+    "main.d17ca20e.js.map": "/riotAPI/static/js/main.d17ca20e.js.map",
     "787.28cb0dcd.chunk.js.map": "/riotAPI/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.66641585.js"
+    "static/js/main.d17ca20e.js"
   ]
 }
