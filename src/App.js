@@ -19,7 +19,7 @@ function App() {
   return (
     <div className="App">
         <div className="container">
-          <h5>Encuentra el jugador</h5>
+          <h5>Encuentra el jugador de LAS</h5>
           <input type="text" onChange={e => setSearchText(e.target.value)}></input>
           <button onClick={e => searchForPlayer(e)}> Buscar jugador</button>
         </div>
